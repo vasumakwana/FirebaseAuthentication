@@ -46,11 +46,6 @@ export FIREBASE_MEASUREMENT_ID=YOUR_MEASUREMENT_ID
   - To the run the project, go to the `bash` terminal of VSCode or any other code editor and run `./start_server.sh`.
   - You don't have to care about setting `.env` then yourself then.
 
-
-## 📺 Demo
-![Login](/Screenshots/login.png?raw=true "Login")
-![SignUp](/Screenshots/signup.png?raw=true "Sign Up")
-
 ## 🤖 Author
 
 Github - [MBSA-INFINITY](https://github.com/MBSA-INFINITY)
