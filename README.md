@@ -4,8 +4,8 @@
 This project provides a streamlined approach to integrating Firebase Authentication into your Flask applications, offering robust user authentication features. With support for various authentication methods including email/password, social media logins (Google, Facebook, Twitter, etc.), this setup ensures a secure and efficient user authentication process. Key features include user registration, login, password reset, and adherence to best security practices like password hashing and token-based authentication.
 
 ## ⚙️ Technologies Used
- - **Backend: **Flask, Firebase
- - **Frontend: **HTML, CSS, Bootstrap
+ - **Backend:** Flask, Firebase
+ - **Frontend:** HTML, CSS, Bootstrap
 
 
 ## 🌟 Getting Started
@@ -49,7 +49,3 @@ export FIREBASE_MEASUREMENT_ID=YOUR_MEASUREMENT_ID
 ## 🤖 Author
 
 Github - [MBSA-INFINITY](https://github.com/MBSA-INFINITY)
-
-
-
-
